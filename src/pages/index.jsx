@@ -17,7 +17,7 @@ import Projects from '../views/Projects'
 import About from '../views/About'
 import Contact from '../views/Contact'
 
-import avatar from '../images/avatar.jpg'
+import avatar from '../images/avatar.png'
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
@@ -66,35 +66,31 @@ const Index = () => (
         <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
       <Projects offset={1}>
-        <Title>Projects</Title>
+        <Title>Service</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Freiheit"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            title="$840.00 per year"
+            link="#"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective contest.
-          </ProjectCard>
-          <ProjectCard
-            title="Harry Potter"
-            link="https://www.behance.net/gallery/52915793/Harry-Potter"
-            bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
-          >
-            I entered the DOCMA 2017 award with this Harry Potter inspired image.
-          </ProjectCard>
-          <ProjectCard
-            title="Tomb Raider"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
-          >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
-          </ProjectCard>
-          <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-          >
-            A fantasy image manipulation relocating the habitat of wild animals.
+            <h1>Enterprise Grade WordPress Hosting</h1>
+            <p>The benefits of enterprise grade WordPress hosting on small business budgets.</p>
+            <p>One year of WordPress hosting, performance, security and maintenance.</p>
+            <ul>
+              <li>25k monthly views / 125K pages served</li>
+              <li>Google Cloud Containers</li>
+              <li>SSL/HTTPS Certificate</li>
+              <li>3 fully functional environments: development, testing and live</li>
+              <li>Global CDN</li>
+              <li>High performance edge caching with Varnish</li>
+              <li>20GB SSD storage</li>
+              <li>Daily automated backups</li>
+              <li>Git code version control and SFTP access</li>
+              <li>Advanced Page Cache</li>
+              <li>Load balancing</li>
+              <li>4 PHP workers</li>
+              <li>Application memory limit 256MB</li>
+            </ul>
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
