@@ -1,7 +1,7 @@
 const tailwind = require('../tailwind')
 
 module.exports = {
-  pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "/portfolio"
+  pathPrefix: '/hoverboard-media', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "/portfolio"
 
   siteTitle: 'Hoverboard Media | Delivering enterprise WordPress hosting for small businesses', // Navigation and Site Title
   siteTitleAlt: 'Hoverboard Media', // Alternative Site title for SEO
