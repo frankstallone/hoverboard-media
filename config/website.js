@@ -7,7 +7,7 @@ module.exports = {
   siteTitleAlt: 'Hoverboard Media', // Alternative Site title for SEO
   siteTitleShort: 'Hoverboard Media', // short_name for manifest
   siteHeadline: 'Delivering enterprise WordPress hosting for small businesses', // Headline for schema.org JSONLD
-  siteUrl: 'https://hoverboardmedia.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://frankstallone.github.io', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Delivering enterprise WordPress hosting for small businesses',
