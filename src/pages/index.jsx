@@ -53,7 +53,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>Hoverboard Media</BigTitle>
-        <Subtitle>Providing the benefits of enterprise grade WordPress hosting on small business budgets.</Subtitle>
+        <Subtitle>Enterprise grade WordPress hosting on small business budgets.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Enterprise Grade WordPress Hosting</Title>
