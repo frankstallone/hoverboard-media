@@ -102,7 +102,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by{' '}<a href="https://iamfrankstallone.com">Frank Stallone</a>.
+          &copy; 2019 by <a href="https://iamfrankstallone.com">Frank Stallone</a>.
         </Footer>
       </Contact>
     </Parallax>
