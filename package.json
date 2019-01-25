@@ -1,7 +1,7 @@
 {
-  "name": "Hoverboard Media Webpage",
+  "name": "hoverboard-media",
   "description": "Delivering enterprise WordPress hosting for small businesses",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "author": "Frank Stallone <iamfrankstallone@gmail.com> (https://iamfrankstallone.com)",
   "license": "MIT",
   "dependencies": {
