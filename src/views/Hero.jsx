@@ -21,7 +21,7 @@ const Hero = ({ children, offset }) => (
         <SVG icon="box" width={6} fill={colors['grey-darker']} left="60%" top="15%" />
       </UpDown>
       <UpDownWide>
-        <SVG icon="arrowUp" hiddenMobile width={16} fill={colors['blue-dark']} left="80%" top="10%" />
+        <SVG icon="cloud" hiddenMobile width={24} fill={colors['blue-dark']} left="80%" top="20%" />
         <SVG icon="triangle" width={12} stroke={colors.white} left="90%" top="50%" />
         <SVG icon="circle" width={16} fill={colors['grey-darker']} left="70%" top="90%" />
         <SVG icon="triangle" width={16} stroke={colors['grey-darkest']} left="30%" top="65%" />
